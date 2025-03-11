@@ -1,43 +1,43 @@
-DOMAIN-SUFFIX,acl4.ssr,🎯 全球直连
-DOMAIN-SUFFIX,ip6-localhost,🎯 全球直连
-DOMAIN-SUFFIX,ip6-loopback,🎯 全球直连
-DOMAIN-SUFFIX,lan,🎯 全球直连
-DOMAIN-SUFFIX,local,🎯 全球直连
-DOMAIN-SUFFIX,localhost,🎯 全球直连
-IP-CIDR,0.0.0.0/8,🎯 全球直连,no-resolve
-IP-CIDR,10.0.0.0/8,🎯 全球直连,no-resolve
-IP-CIDR,100.64.0.0/10,🎯 全球直连,no-resolve
-IP-CIDR,127.0.0.0/8,🎯 全球直连,no-resolve
-IP-CIDR,172.16.0.0/12,🎯 全球直连,no-resolve
-IP-CIDR,192.168.0.0/16,🎯 全球直连,no-resolve
-IP-CIDR,198.18.0.0/16,🎯 全球直连,no-resolve
-IP-CIDR,224.0.0.0/4,🎯 全球直连,no-resolve
-IP-CIDR6,::1/128,🎯 全球直连,no-resolve
-IP-CIDR6,fc00::/7,🎯 全球直连,no-resolve
-IP-CIDR6,fe80::/10,🎯 全球直连,no-resolve
-IP-CIDR6,fd00::/8,🎯 全球直连,no-resolve
+DOMAIN-SUFFIX,acl4.ssr
+DOMAIN-SUFFIX,ip6-localhost
+DOMAIN-SUFFIX,ip6-loopback
+DOMAIN-SUFFIX,lan
+DOMAIN-SUFFIX,local
+DOMAIN-SUFFIX,localhost
+IP-CIDR,0.0.0.0/8
+IP-CIDR,10.0.0.0/8
+IP-CIDR,100.64.0.0/10
+IP-CIDR,127.0.0.0/8
+IP-CIDR,172.16.0.0/12
+IP-CIDR,192.168.0.0/16
+IP-CIDR,198.18.0.0/16
+IP-CIDR,224.0.0.0/4
+IP-CIDR6,::1/128
+IP-CIDR6,fc00::/7
+IP-CIDR6,fe80::/10
+IP-CIDR6,fd00::/8
 
 # Steam IP
-IP-CIDR,45.121.184.0/24,🎯 全球直连,no-resolve
-IP-CIDR,103.10.124.0/23,🎯 全球直连,no-resolve
-IP-CIDR,103.28.54.0/24,🎯 全球直连,no-resolve
-IP-CIDR,146.66.152.0/24,🎯 全球直连,no-resolve
-IP-CIDR,146.66.155.0/24,🎯 全球直连,no-resolve
-IP-CIDR,153.254.86.0/24,🎯 全球直连,no-resolve
-IP-CIDR,155.133.224.0/22,🎯 全球直连,no-resolve
-IP-CIDR,155.133.230.0/24,🎯 全球直连,no-resolve
-IP-CIDR,155.133.232.0/23,🎯 全球直连,no-resolve
-IP-CIDR,155.133.234.0/24,🎯 全球直连,no-resolve
-IP-CIDR,155.133.236.0/22,🎯 全球直连,no-resolve
-IP-CIDR,155.133.240.0/23,🎯 全球直连,no-resolve
-IP-CIDR,155.133.244.0/23,🎯 全球直连,no-resolve
-IP-CIDR,155.133.246.0/24,🎯 全球直连,no-resolve
-IP-CIDR,155.133.248.0/21,🎯 全球直连,no-resolve
-IP-CIDR,162.254.192.0/21,🎯 全球直连,no-resolve
-IP-CIDR,185.25.182.0/23,🎯 全球直连,no-resolve
-IP-CIDR,190.217.32.0/22,🎯 全球直连,no-resolve
-IP-CIDR,192.69.96.0/22,🎯 全球直连,no-resolve
-IP-CIDR,205.196.6.0/24,🎯 全球直连,no-resolve
-IP-CIDR,208.64.200.0/22,🎯 全球直连,no-resolve
-IP-CIDR,208.78.164.0/22,🎯 全球直连,no-resolve
-IP-CIDR,205.185.194.0/24,🎯 全球直连,no-resolve
+IP-CIDR,45.121.184.0/24
+IP-CIDR,103.10.124.0/23
+IP-CIDR,103.28.54.0/24
+IP-CIDR,146.66.152.0/24
+IP-CIDR,146.66.155.0/24
+IP-CIDR,153.254.86.0/24
+IP-CIDR,155.133.224.0/22
+IP-CIDR,155.133.230.0/24
+IP-CIDR,155.133.232.0/23
+IP-CIDR,155.133.234.0/24
+IP-CIDR,155.133.236.0/22
+IP-CIDR,155.133.240.0/23
+IP-CIDR,155.133.244.0/23
+IP-CIDR,155.133.246.0/24
+IP-CIDR,155.133.248.0/21
+IP-CIDR,162.254.192.0/21
+IP-CIDR,185.25.182.0/23
+IP-CIDR,190.217.32.0/22
+IP-CIDR,192.69.96.0/22
+IP-CIDR,205.196.6.0/24
+IP-CIDR,208.64.200.0/22
+IP-CIDR,208.78.164.0/22
+IP-CIDR,205.185.194.0/24
